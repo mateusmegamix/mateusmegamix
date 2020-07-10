@@ -1,4 +1,4 @@
-# Mateus Pereira Militão :man_tecnologist:
+# Mateus Pereira Militão :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=write&link=https://www.linkedin.com/in/mateus-pereira-00b705133)](https://www.linkedin.com/in/mateus-pereira-00b705133)
 
