@@ -1,4 +1,13 @@
-### Hi there 👋
+# Mateus Pereira Militão :man_tecnologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=write&link=https://www.linkedin.com/in/mateus-pereira-00b705133)](https://www.linkedin.com/in/mateus-pereira-00b705133)
+
+### Hello World! 👋 My name is Mateus Pereira and...
+
+- 🔭 I’m currently working on Quiminvest
+- 🌱 I’m currently learning React and PHP
+- 📫 How to reach me: mateusp.1996@gmail.com
+- ⚡ I'm working with developer
 
 <!--
 **mateusmegamix/mateusmegamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
