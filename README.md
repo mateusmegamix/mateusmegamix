@@ -4,7 +4,7 @@
 
 ### Hello World! 👋 My name is Mateus Pereira and...
   
-- 🔭 I’m currently working na AM4
+- 🔭 I’m currently working na Wiser
 - 🌱 I’m currently learning React and React-Native
 - 📫 How to reach me: mateusp.1996@gmail.com
 - ⚡ I'm working with developer
